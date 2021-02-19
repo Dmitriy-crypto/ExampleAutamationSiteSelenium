@@ -3,6 +3,7 @@ logs/
 libraries/
 reports/
 target/
+other_draw/
 
 /shelf/
 /workspace.xml
